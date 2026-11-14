@@ -56,4 +56,8 @@ I opened Visual Studio Code manually and used its Command Palette to install the
 
 ## 8. Commit details
 
-Pending. The repository has not yet been published or committed to GitHub.
+- Commit message: Set up Digital Detective mission structure
+- Commit ID: 493e7a7
+- Branch: main
+- GitHub push: Successful
+- Remote: origin
