@@ -68,6 +68,7 @@ I learned that everyday devices such as ATMs, smart TVs and washing machines are
 ## 8. Commit Details
 
 - Commit message: Complete computer basics and IPOS mission
+- Commit ID: 71cc2b4
 - Branch: main
-- GitHub push: Pending
-- Commit ID: To be updated after committing
+- GitHub push: Successful
+- Remote: origin
