@@ -68,4 +68,9 @@ Created the Python file, executed it using Python 3 and reviewed the concepts of
 
 ## 8. Commit details
 
-To be updated after committing and pushing this mission to GitHub.
+- **Commit ID:** `299d9ca`
+- **Commit message:** `Add Python program and compiler interpreter comparison`
+- **Branch:** `main`
+- **Remote:** `origin`
+- **Status:** Successfully pushed to GitHub.
+- **Verification:** Working tree clean; local branch is up to date with `origin/main`.
