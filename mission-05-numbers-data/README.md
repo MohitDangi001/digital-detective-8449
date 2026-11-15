@@ -110,4 +110,8 @@ I also learned that the converter expects a decimal number, not a Python express
 
 ## 10. Commit Details
 
-To be updated after committing and pushing this mission to GitHub.
+- Commit ID: `1f1903f`
+- Commit Message: `Build number converter and practise data representation`
+- Branch: `main`
+- Remote: `origin`
+- Status: Successfully pushed to GitHub.
