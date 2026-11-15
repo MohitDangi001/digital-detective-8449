@@ -37,3 +37,12 @@ This project will help me develop practical knowledge of computer systems, progr
 The repository is organised into separate folders for each mission. Each mission contains its own README documenting the activities, commands, observations and learning outcomes.
 
 Each completed mission will be committed and pushed separately to GitHub.
+
+## My Learning
+
+Through the Digital Detective assignment, I have learned:
+
+- **Computer Fundamentals:** How input, processing, output and storage work together in everyday computer systems.
+- **Terminal and Operating Systems:** How to navigate directories, manage files and understand operating-system responsibilities.
+- **Python and Number Systems:** How to write and execute Python programs and convert decimal numbers into binary and hexadecimal.
+- **Git and GitHub:** How version control tracks project changes and supports collaboration.
