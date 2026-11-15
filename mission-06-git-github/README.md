@@ -90,4 +90,8 @@ I learned that changes must be staged before creating a normal Git commit. I als
 
 ## 9. Commit Details
 
-To be updated after committing and pushing Mission 6 documentation.
+- Commit ID: `1b186be`
+- Commit Message: `Complete Git and GitHub collaboration mission`
+- Branch: `update-about`
+- Remote: `origin`
+- Status: Successfully pushed to GitHub.
