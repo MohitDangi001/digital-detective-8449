@@ -82,4 +82,9 @@ Used Terminal commands to inspect system information and storage. Reviewed opera
 
 ## 8. Commit details
 
-To be updated after committing and pushing this mission to GitHub.
+- **Commit ID:** `3c920a5`
+- **Commit message:** `Document operating system and file management`
+- **Branch:** `main`
+- **Remote:** `origin`
+- **Status:** Successfully pushed to GitHub.
+- **Verification:** Working tree clean; local branch is up to date with `origin/main`.
