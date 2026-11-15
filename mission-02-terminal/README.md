@@ -67,6 +67,9 @@ Reviewed command behaviour, practised Terminal operations and inspected the Home
 
 ## 8. Commit details
 
-**Commit message:** `Complete Terminal and file management mission`
-
-The mission documentation is prepared for staging, committing and pushing to GitHub.
+- **Commit ID:** `c881b37`
+- **Commit message:** `Complete Terminal and file management mission`
+- **Branch:** `main`
+- **Remote:** `origin`
+- **Status:** Successfully pushed to GitHub.
+- **Verification:** Working tree clean; local branch is up to date with `origin/main`.
